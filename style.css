@@ -295,3 +295,114 @@ body {
     opacity: 1;
     transform: translateY(0);
 }
+
+/* ========================= */
+/* RESPONSIVIDADE GERAL */
+/* ========================= */
+
+/* 🔹 Ajuste do título no mobile */
+@media (max-width: 768px) {
+    .titulo {
+        font-size: 2.2rem;
+        text-align: center;
+        line-height: 2.7rem;
+        padding: 0 10px;
+    }
+
+    .subtitulo {
+        font-size: 1rem;
+        padding: 0 15px;
+    }
+
+    .ver-projetos-btn {
+        width: 200px;
+        height: 55px;
+    }
+
+    .ver-projetos-btn .original,
+    .ver-projetos-btn .letters {
+        font-size: 1.2rem !important;
+    }
+}
+
+/* 🔹 Cards mais compactos no mobile */
+@media (max-width: 576px) {
+    .card-3d {
+        padding: 15px;
+    }
+
+    .card-title {
+        font-size: 1.2rem;
+    }
+
+    .card-text {
+        font-size: 0.95rem;
+    }
+}
+
+/* 🔹 Ajuste dos badges de habilidades */
+@media (max-width: 576px) {
+    .habilidades-resumo {
+        gap: 10px !important;
+    }
+
+    .habilidades-resumo .badge {
+        padding: 10px 12px !important;
+        font-size: 0.85rem;
+    }
+}
+
+/* 🔹 Ícones sociais menores */
+@media (max-width: 576px) {
+    .social-links a {
+        font-size: 1.6rem;
+        margin: 0 8px;
+    }
+}
+
+/* 🔹 HOME ocupa melhor no mobile */
+@media (max-width: 768px) {
+    .home-section {
+        padding-top: 120px;
+        padding-bottom: 60px;
+        height: auto;
+    }
+}
+
+/* 🔹 Navbar melhora no mobile */
+@media (max-width: 768px) {
+    .navbar-nav {
+        gap: 20px;
+    }
+
+    .navbar-nav .nav-link i {
+        font-size: 1.4rem;
+    }
+}
+
+/* 🔹 Botão flutuante ajustado */
+@media (max-width: 576px) {
+    #btnTopo.btn-53 {
+        width: 55px;
+        height: 55px;
+        right: 15px;
+        bottom: 15px;
+    }
+
+    #btnTopo .original,
+    #btnTopo .letters {
+        font-size: 1.4rem;
+    }
+}
+
+/* 🔹 Seções com espaçamento melhor no mobile */
+@media (max-width: 768px) {
+    section {
+        padding-top: 60px !important;
+        padding-bottom: 60px !important;
+    }
+
+    .section-title {
+        font-size: 2rem;
+    }
+}
