@@ -29,10 +29,13 @@
 - **Mesmo repositório:** a página de freelance fica em `freelance.html`. O index continua sendo o portfólio de entrevistas.
 - **Trabalhos da MLEGATE sem link e sem nome de cliente:** os repositórios FCxOdoo, anomalias e depreciacoes são privados, e as pastas locais têm dados de clientes. O projeto da BTC ficou de fora.
 - **Seis na Quadra e Tabletop:** têm repositório privado. O Seis na Quadra aponta para o site no ar, e o Tabletop aparece sem link.
-- **Links ao vivo conferidos em 21/10/2026:** bruna-e-rodrigo.vercel.app, quintoandarapartamento.vercel.app, seis-na-quadra.vercel.app, pauloot.github.io/modo-zona e pauloot.github.io/biblioteca-unifecaf.
+- **Links ao vivo conferidos em 21/10/2026:** quintoandarapartamento.vercel.app, seis-na-quadra.vercel.app, pauloot.github.io/modo-zona e pauloot.github.io/biblioteca-unifecaf.
 
 ## O que ficou aberto
 
 - **Promessas comerciais a confirmar:** "até 5 páginas", "ajustes pequenos inclusos" e "poucos dias" para landing page.
-- **Nome dos noivos:** confirmar com a Bruna e o Rodrigo se o site do casamento pode aparecer no portfólio.
 - **Publicação:** o merge na `main` publica na Vercel (portifolio-paulot.vercel.app).
+
+## Ajuste depois do merge
+
+- **Site do casamento sem link:** a pedido do Paulo, o card continua nas duas páginas, mas virou `.proj.static`, sem link para o site. As notas sobre "projetos sem link" passaram a citar também os projetos particulares de cliente.
