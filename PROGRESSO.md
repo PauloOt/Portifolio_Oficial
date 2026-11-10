@@ -10,6 +10,7 @@ Portfólio do Paulo Otávio: `index.html` serve para entrevistas, e `freelance.h
 - [x] WhatsApp e e-mail nos dois portfólios, configurados pelo objeto `CONTATO` no `script.js` — 21/10/2026
 - [x] Site do casamento listado sem link, a pedido — 21/10/2026
 - [x] Imagem de preview (og:image) nas duas páginas, gerada de og/modelo.html — 21/10/2026
+- [x] REINF com "em produção desde abril/2026" e texto novo nas duas páginas — 10/11/2026
 
 ## Próximos passos
 
@@ -20,3 +21,4 @@ Portfólio do Paulo Otávio: `index.html` serve para entrevistas, e `freelance.h
 
 - [2026-10-21 — Página de freelance e projetos novos](docs/sessoes/2026-10-21-freelance-e-projetos-novos.md)
 - [2026-10-21 — Imagem de preview (og:image)](docs/sessoes/2026-10-21-og-image.md)
+- [2026-11-10 — Texto do Assinador EFD-REINF](docs/sessoes/2026-11-10-texto-reinf.md)
